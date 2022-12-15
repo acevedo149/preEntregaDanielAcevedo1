@@ -1,10 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  background-color: rgb(222, 206, 206);
+  background-color: rgb(194, 174, 174);
   color: rgb(12, 11, 11);
 }
 
+.fondoImagen{
+  background-color: rgb(200, 181, 181)
+}
+
 .areapublicidad{
-  color: rgb(133, 120, 102);
+  color: rgb(8, 8, 7);
   background-color: rgb(136, 56, 38);
 }
 
